@@ -22,6 +22,11 @@ function displayAdditionQuestion() {
 
 }
 
-function displayQuestion() {
+function displayubstractQuestion() {
     
 }
+
+function displayultiplyQuestion() {
+    
+}
+
